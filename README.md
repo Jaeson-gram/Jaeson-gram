@@ -2,7 +2,7 @@
 - 👀 I’m interested in mobile dev, AI(robotics, ML, IoT, embedded syss), lil bit in web. wierd ry?
 - 🌱 I’m currently learning csharp
 - 💞️ I’m looking to collaborate
-- 📫 twitter: @Jeysonjhey, Instagram: @jey_son_
+- 📫 twitter: @O_Jey3, Instagram: @jey_son_
 
 <!---
 Jaeson-gram/Jaeson-gram is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
