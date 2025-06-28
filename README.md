@@ -1,9 +1,9 @@
 - 🤴 Child of The Most High God.
-- 👨‍💻 Mobile and Web Developer.
+- 👨‍💻 ASP.Net Backend Developer
+- 🌱 C# and Java lover, Assembly Language(s) and C next
 - 👀 Aspiring Systems Programmer
-- 🌱 C# and Java Developer, Assembly Language(s) / C next
-- 💞️ Open to collaboration
-- 📫 twitter: @O_Jey3 ... website: https://jey-portfolio-ten.vercel.app/ ... Instagram: @jey_son_ ...LinkedIn: https://www.linkedin.com/in/justiceogbobula/ 
+- 💞️ Open to collaboration, Jobs (remote✨, onsite)
+- 📫 email: freeonjeyson@gmail.com, ukelaokey@gmail.com ... twitter: @O_Jey3 ... website: https://jey-portfolio-ten.vercel.app/ ... Instagram: @jey_son_ ...LinkedIn: https://www.linkedin.com/in/justiceogbobula/ 
 
 <!---
 Jaeson-gram/Jaeson-gram is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
